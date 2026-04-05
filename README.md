@@ -44,7 +44,3 @@ Flask     React Native  Node.js  Git
 ---
 
 *"The best way to learn a system is to understand how to break it, then build it better."*
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=skbgp&show_icons=true&theme=transparent&hide_border=true&hide_title=true&count_private=true)](https://github.com/skbgp)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skbgp&layout=compact&theme=transparent&hide_border=true)](https://github.com/skbgp)
