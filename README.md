@@ -1,49 +1,49 @@
-## hey, i'm shubham 👋
+## Hey, I'm Shubham 👋
 
-cs undergrad at **IIT Madras** — i like building stuff that solves real problems and breaking things to understand how they work.
+M.Tech student at **IIT Madras** (CSE Dept) — I enjoy building tools that solve real-world problems and exploring how complex systems work under the hood.
 
-currently working on [dcf_server_iitm](https://github.com/skbgp/dcf_server_iitm), an offline C++ code evaluation server for the DCF lab in CSE dept.
+Currently working on [dcf_server_iitm](https://github.com/skbgp/dcf_server_iitm), an offline C++ code evaluation server for the DCF lab in the CSE Department at IIT Madras.
 
 ---
 
-### what i've been building
+### Featured Projects
 
-| project | what it does | built with |
+| Project | Description | Built With |
 |---------|-------------|------------|
-| [dcf_server_iitm](https://github.com/skbgp/dcf_server_iitm) | offline code judge for our lab | html, backend stuff |
-| [cardvault](https://github.com/skbgp/cardvault) | secure card manager with biometric auth | react native |
-| [fake-news-detector](https://github.com/skbgp/fake-news-detector) | ml model + flask app for fake news detection | python, flask |
-| [dsa_tracker](https://github.com/skbgp/dsa_tracker) | track dsa progress, deployed at [dsa-wiki.online](https://dsa-wiki.online) | javascript |
-| [simple-finance-tracker](https://github.com/skbgp/simple-finance-tracker) | basic expense tracker | javascript |
+| [dcf_server_iitm](https://github.com/skbgp/dcf_server_iitm) | Offline code judge for departmental labs | HTML, C++, Backend |
+| [cardvault](https://github.com/skbgp/cardvault) | Secure card manager with biometric authentication | React Native |
+| [fake-news-detector](https://github.com/skbgp/fake-news-detector) | ML model + Flask app for fake news detection | Python, Flask |
+| [dsa_tracker](https://github.com/skbgp/dsa_tracker) | Track DSA progress, deployed at [dsa-wiki.online](https://dsa-wiki.online) | JavaScript |
+| [simple-finance-tracker](https://github.com/skbgp/simple-finance-tracker) | Personal expense tracking application | JavaScript |
 
-### things i tinker with
+### Technical Interests
 
-- android internals — kernels, xposed modules, zygisk, device spoofing
-- rooting & modding (nothing/cmf phone user, built custom kernel stuff)
-- networking hacks — vpn hotspot sharing, connectivity tricks
+- **Android Internals**: Custom kernels, Xposed modules, Zygisk, and device spoofing.
+- **Rooting & Modding**: Active member of the Nothing/CMF community, building custom kernel utilities.
+- **Networking**: VPN hotspot sharing and network connectivity optimization.
 
-### languages & tools
+### Languages & tools
 
-```
-python    javascript    c/c++    kotlin    html/css    shell
-flask     react native  node.js  git
+```text
+Python    JavaScript    C/C++    Kotlin    HTML/CSS    Shell
+Flask     React Native  Node.js  Git
 ```
 
 ---
 
 <details>
-<summary>a bit more about me</summary>
+<summary>More About Me</summary>
 
-- grinding leetcode like everyone else (yes i have 3 leetcode-related forks, don't judge)
-- interested in ml, systems programming, and android security
-- i fork repos to read source code, not just to star them
-- prefer building things over writing docs about building things
+- Currently focused on advanced Data Structures and Algorithms.
+- Interested in Machine Learning, Systems Programming, and Android Security.
+- I often fork repositories to study their architecture and source code.
+- Passionate about building functional tools and improving system efficiency.
 
 </details>
 
 ---
 
-*"the best way to learn something is to break it first"*
+*"The best way to learn a system is to understand how to break it, then build it better."*
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=skbgp&show_icons=true&theme=transparent&hide_border=true&hide_title=true&count_private=true)](https://github.com/skbgp)
 
