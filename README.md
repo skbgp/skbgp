@@ -18,9 +18,8 @@ Currently working on [dcf_server_iitm](https://github.com/skbgp/dcf_server_iitm)
 
 ### Technical Interests
 
-- **Android Internals**: Custom kernels, Xposed modules, Zygisk, and device spoofing.
-- **Rooting & Modding**: Active member of the Nothing/CMF community, building custom kernel utilities.
-- **Networking**: VPN hotspot sharing and network connectivity optimization.
+- **Android Modding**: Kernels, Xposed/Zygisk, and Device Spoofing.
+- **Networking**: VPN Hotspot and Connection Optimization.
 
 ### Languages & tools
 
