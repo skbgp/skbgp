@@ -2,8 +2,6 @@
 
 M.Tech student at **IIT Madras** (CSE Dept) — I enjoy building tools that solve real-world problems and exploring how complex systems work under the hood.
 
-Currently working on [dcf_server_iitm](https://github.com/skbgp/dcf_server_iitm), an offline C++ code evaluation server for the DCF lab in the CSE Department at IIT Madras.
-
 ---
 
 ### Featured Projects
