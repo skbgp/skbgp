@@ -1,6 +1,6 @@
 ## Hey, I'm Shubham
 
-M.Tech student at **IIT Madras** (CSE Dept) — I enjoy building tools that solve real-world problems and exploring how complex systems work under the hood.
+M.Tech student at **IIT Madras** (CSE Dept) : I enjoy building tools that solve real-world problems and exploring how complex systems work under the hood.
 
 ---
 
