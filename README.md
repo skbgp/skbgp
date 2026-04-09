@@ -14,30 +14,4 @@ M.Tech student at **IIT Madras** (CSE Dept) : I enjoy building tools that solve 
 | [dsa_tracker](https://github.com/skbgp/dsa_tracker) | Track DSA progress, deployed at [dsa-wiki.online](https://dsa-wiki.online) | JavaScript |
 | [simple-finance-tracker](https://github.com/skbgp/simple-finance-tracker) | Personal expense tracking application | JavaScript |
 
-### Technical Interests
 
-- **Android Modding**: Kernels, Xposed/Zygisk, and Device Spoofing.
-- **Networking**: VPN Hotspot and Connection Optimization.
-
-### Languages & tools
-
-```text
-Python    JavaScript    C/C++    Kotlin    HTML/CSS    Shell
-Flask     React Native  Node.js  Git
-```
-
----
-
-<details>
-<summary>More About Me</summary>
-
-- Currently focused on advanced Data Structures and Algorithms.
-- Interested in Machine Learning, Systems Programming, and Android Security.
-- I often fork repositories to study their architecture and source code.
-- Passionate about building functional tools and improving system efficiency.
-
-</details>
-
----
-
-*"The best way to learn a system is to understand how to break it, then build it better."*
